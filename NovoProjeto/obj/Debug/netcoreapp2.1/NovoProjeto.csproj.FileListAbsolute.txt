@@ -1,0 +1,11 @@
+C:\Users\Playlist\Documents\temp\NovoProjeto\obj\Debug\netcoreapp2.1\NovoProjeto.csprojAssemblyReference.cache
+C:\Users\Playlist\Documents\temp\NovoProjeto\obj\Debug\netcoreapp2.1\NovoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Playlist\Documents\temp\NovoProjeto\obj\Debug\netcoreapp2.1\NovoProjeto.AssemblyInfoInputs.cache
+C:\Users\Playlist\Documents\temp\NovoProjeto\obj\Debug\netcoreapp2.1\NovoProjeto.AssemblyInfo.cs
+C:\Users\Playlist\Documents\temp\NovoProjeto\bin\Debug\netcoreapp2.1\NovoProjeto.deps.json
+C:\Users\Playlist\Documents\temp\NovoProjeto\bin\Debug\netcoreapp2.1\NovoProjeto.runtimeconfig.json
+C:\Users\Playlist\Documents\temp\NovoProjeto\bin\Debug\netcoreapp2.1\NovoProjeto.runtimeconfig.dev.json
+C:\Users\Playlist\Documents\temp\NovoProjeto\bin\Debug\netcoreapp2.1\NovoProjeto.dll
+C:\Users\Playlist\Documents\temp\NovoProjeto\bin\Debug\netcoreapp2.1\NovoProjeto.pdb
+C:\Users\Playlist\Documents\temp\NovoProjeto\obj\Debug\netcoreapp2.1\NovoProjeto.dll
+C:\Users\Playlist\Documents\temp\NovoProjeto\obj\Debug\netcoreapp2.1\NovoProjeto.pdb
