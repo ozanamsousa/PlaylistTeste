@@ -1,6 +1,0 @@
-C:\Users\Playlist\Documents\temp\SallesApp\obj\Debug\netcoreapp2.1\SallesApp.csprojAssemblyReference.cache
-C:\Users\Playlist\Documents\temp\SallesApp\obj\Debug\netcoreapp2.1\SallesApp.csproj.CoreCompileInputs.cache
-C:\Users\Playlist\Documents\temp\SallesApp\obj\Debug\netcoreapp2.1\SallesApp.RazorAssemblyInfo.cache
-C:\Users\Playlist\Documents\temp\SallesApp\obj\Debug\netcoreapp2.1\SallesApp.RazorAssemblyInfo.cs
-C:\Users\Playlist\Documents\temp\SallesApp\obj\Debug\netcoreapp2.1\SallesApp.AssemblyInfoInputs.cache
-C:\Users\Playlist\Documents\temp\SallesApp\obj\Debug\netcoreapp2.1\SallesApp.AssemblyInfo.cs
